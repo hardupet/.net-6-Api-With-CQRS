@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "PSqPrCNSZVrGfmJrLZBoTR7TvmQWZ0JnOb+0vDQxvSKUDbQeOri8/U07hPJxDjwstSBbQBm3dHaRzJ8LM3YqRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ladepoaa\\source\\repos\\RestaurantSchedule\\RestaurantSchedule.Library\\RestaurantSchedule.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ladepoaa\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Ladepoaa\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ladepoaa\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ladepoaa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Ladepoaa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

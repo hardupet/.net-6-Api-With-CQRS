@@ -1,0 +1,12 @@
+C:\Users\Ladepoaa\source\repos\RestaurantSchedule\RestaurantSchedule.Library\bin\Debug\net6.0\RestaurantSchedule.Library.deps.json
+C:\Users\Ladepoaa\source\repos\RestaurantSchedule\RestaurantSchedule.Library\bin\Debug\net6.0\RestaurantSchedule.Library.dll
+C:\Users\Ladepoaa\source\repos\RestaurantSchedule\RestaurantSchedule.Library\bin\Debug\net6.0\RestaurantSchedule.Library.pdb
+C:\Users\Ladepoaa\source\repos\RestaurantSchedule\RestaurantSchedule.Library\obj\Debug\net6.0\RestaurantSchedule.Library.csproj.AssemblyReference.cache
+C:\Users\Ladepoaa\source\repos\RestaurantSchedule\RestaurantSchedule.Library\obj\Debug\net6.0\RestaurantSchedule.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ladepoaa\source\repos\RestaurantSchedule\RestaurantSchedule.Library\obj\Debug\net6.0\RestaurantSchedule.Library.AssemblyInfoInputs.cache
+C:\Users\Ladepoaa\source\repos\RestaurantSchedule\RestaurantSchedule.Library\obj\Debug\net6.0\RestaurantSchedule.Library.AssemblyInfo.cs
+C:\Users\Ladepoaa\source\repos\RestaurantSchedule\RestaurantSchedule.Library\obj\Debug\net6.0\RestaurantSchedule.Library.csproj.CoreCompileInputs.cache
+C:\Users\Ladepoaa\source\repos\RestaurantSchedule\RestaurantSchedule.Library\obj\Debug\net6.0\RestaurantSchedule.Library.dll
+C:\Users\Ladepoaa\source\repos\RestaurantSchedule\RestaurantSchedule.Library\obj\Debug\net6.0\refint\RestaurantSchedule.Library.dll
+C:\Users\Ladepoaa\source\repos\RestaurantSchedule\RestaurantSchedule.Library\obj\Debug\net6.0\RestaurantSchedule.Library.pdb
+C:\Users\Ladepoaa\source\repos\RestaurantSchedule\RestaurantSchedule.Library\obj\Debug\net6.0\ref\RestaurantSchedule.Library.dll

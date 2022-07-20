@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantSchedule.Api", "RestaurantSchedule.Api\RestaurantSchedule.Api.csproj", "{BA115818-AAFC-4EA6-B407-57898BB5DCFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantSchedule.Library", "RestaurantSchedule.Library\RestaurantSchedule.Library.csproj", "{7FBBCF13-B9BC-490F-97A4-759169CC3FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA115818-AAFC-4EA6-B407-57898BB5DCFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA115818-AAFC-4EA6-B407-57898BB5DCFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA115818-AAFC-4EA6-B407-57898BB5DCFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA115818-AAFC-4EA6-B407-57898BB5DCFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FBBCF13-B9BC-490F-97A4-759169CC3FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBBCF13-B9BC-490F-97A4-759169CC3FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBBCF13-B9BC-490F-97A4-759169CC3FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBBCF13-B9BC-490F-97A4-759169CC3FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12A1E8CB-949C-4F70-B3F4-09E4913AAA5F}
+	EndGlobalSection
+EndGlobal

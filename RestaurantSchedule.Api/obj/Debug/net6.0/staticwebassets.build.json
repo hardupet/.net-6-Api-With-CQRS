@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EJXl/EwpXm0GHSYI3GUZQkps/PfHpZUOq4ffeuqx/R8=",
+  "Source": "RestaurantSchedule.Api",
+  "BasePath": "_content/RestaurantSchedule.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
